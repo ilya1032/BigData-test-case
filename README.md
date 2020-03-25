@@ -1,4 +1,4 @@
-#DINS test case
+# DINS test case
 
 Данный проект выполнялся в ходе отбора на стажировку на вакансию Java Big Data developer.
 
@@ -12,7 +12,7 @@
 + libpcap
 + Maven
 
-##Задание
+## Задание
 Было необходимо:
 
 1. Развернуть Apache Kafka и PostgreSQL в Docker-контейнерах 
