@@ -1,4 +1,4 @@
-# DINS test case
+# Big Data test case
 
 Данный проект выполнялся в ходе отбора на стажировку на вакансию Java Big Data developer.
 
